@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.example.feature"
+      label="Example Feature"
+      version="0.0.1.qualifier"
+      provider-name="ACME">
+
+   <plugin
+         id="org.example"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+</feature>
